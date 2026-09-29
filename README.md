@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Jose. I'm a developer from Venezuela, studying computer 
+science at Universidad Central de Venezuela.
 
-<!--
-**joseriverodev/joseriverodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I do:
 
-Here are some ideas to get you started:
+- Web apps with Next.js and Tailwind, mostly catalogs and light 
+  e-commerce
+- WhatsApp integrations: orders, leads, automatic replies
+- Python scripts for the repetitive stuff: scraping, file processing, 
+  small automations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Last thing I built for a client: a jewelry catalog where the cart 
+turns into a WhatsApp order message, with an admin panel so the owner 
+runs the store himself. He can even change the homepage banners 
+without touching code.
+
+Right now I'm building a small lead-qualifier project to get better 
+at handling LLM API calls the right way.
+
+I use AI tools to code faster, and then I read everything they write.
